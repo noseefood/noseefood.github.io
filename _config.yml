@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xuesong Li"
-  avatar           : "profile.png"
+  avatar           : "1662135563742.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Munich, Germany"
   employer         :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  learning:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,7 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _Learning
+  # _learning
   - scope:
       path: ""
       type: talks
