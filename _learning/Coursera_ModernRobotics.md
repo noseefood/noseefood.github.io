@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Munich, Germany"
 ---
 
-Online Course notes of **Modern Robotics: Mechanics, Planning, and Control Specialization** course from Coursera|Northwestern University 
+Online Course notes of **Modern Robotics: Mechanics, Planning, and Control Specialization** course from Coursera(Northwestern University) 
 
 
 
