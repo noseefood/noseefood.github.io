@@ -15,11 +15,13 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Learning"
+    url: /learning/ 
+    
   - title: "CV"
     url: /cv/
     
   - title: "Guide"
     url: /markdown/
   
-  - title: "Learning"
-    url: /learning/ 
+
