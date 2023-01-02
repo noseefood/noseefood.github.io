@@ -13,9 +13,8 @@ Online Course notes of **Modern Robotics: Mechanics, Planning, and Control Speci
 
 
 Modern Robotics, Course 1: Foundations of Robot Motion
-
-$\sqrt{3x-1}+(1+x)^2$
 ======
+$\sqrt{3x-1}+(1+x)^2$
 
 Modern Robotics, Course 2: Robot Kinematics
 ======
