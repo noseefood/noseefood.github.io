@@ -8,7 +8,13 @@ date: 2023-01-01
 location: "Munich, Germany"
 ---
 
-Coursera notes of **Modern Robotics** course from Coursera|Northwestern University 
+Online Course notes of **Modern Robotics: Mechanics, Planning, and Control Specialization** course from Coursera|Northwestern University 
+Modern Robotics, Course 1: Foundations of Robot Motion
+Modern Robotics, Course 2: Robot Kinematics
+Modern Robotics, Course 3: Robot Dynamics
+Modern Robotics, Course 4: Robot Motion Planning and Control
+Modern Robotics, Course 5: Robot Manipulation and Wheeled Mobile Robots
+Modern Robotics, Course 6: Capstone Project, Mobile Manipulation
 
 Heading 1
 ======
