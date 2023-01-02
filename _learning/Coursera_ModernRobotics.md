@@ -2,7 +2,7 @@
 title: "Coursera-Modern Robotics"
 collection: Learning
 type: "Undergraduate course"
-permalink: /Learning/Coursera_ModernRobotics.md
+permalink: /Learning/Coursera_ModernRobotics
 venue: "Coursera online"
 date: 2023-01-01
 location: "Munich, Germany"
