@@ -250,7 +250,7 @@ defaults:
   # _learning
   - scope:
       path: ""
-      type: teaching
+      type: learning
     values:
       layout: single
       author_profile: true
