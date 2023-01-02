@@ -18,3 +18,5 @@ Heading 2
 
 Heading 3
 ======
+
+ $\sqrt{3x-1}+(1+x)^2$
