@@ -1,9 +1,10 @@
 # main links links
+# Here annotation could remove the link from the main menu
 main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
+  # - title: "Talks"  
   #   url: /talks/    
 
   - title: "Teaching"
