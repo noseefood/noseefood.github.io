@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xuesong Li"
   avatar           : "1662135563742.jpg"
-  bio              : "Xuesong Li received the B.S. degree in mechanical engineering(Energie and Power engineering) from Central South University, Changsha, China, in 2017 and will the double M.S. degree in Mechatronics and Robotics / Medical Engineering and Assistance Systems from Technical University of Munich, Munich, Germany, in 2023."
+  bio              : "Xuesong Li received the double M.S. degree in Mechatronics and Robotics / Medical Engineering and Assistance Systems from Technical University of Munich, Munich, Germany, in 2023."
   location         : "Munich, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ZEKz2ssAAAAJ&hl=de"
   email            : "Xuesong.Li@tum.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
   learning:
     output: true
